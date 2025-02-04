@@ -8,7 +8,7 @@
   <li>Recommandations</li>
 </ul>
 <h3>Case Description</h3>
-<p>This supermarket chain in Myanmar operates in three cities Yangon, Naypyitaw, and Mandalay. It accepts payments methods of cash, E-wallet and credit card. In order to improve the chain’s revenue, the company decided to perform an analysis on its sales from January 2019 to March 2019 to identify inefficiencies and high value customers.</p>
+<p>This supermarket chain in Myanmar operates in three cities Yangon, Naypyitaw, and Mandalay. It accepts payments methods of cash, E-wallet and credit card. In order to improve the chain’s revenue, the company decided to perform an analysis on its sales from January 2019 to March 2019 to identify inefficiencies and high value customers. The Data analysis was done in SQL.</p>
 
 <h3>Dataset Descriptions</h3>
 <p>This is a one table dataset, and it’s downloaded from Kaggle. It’s about a Myanmar supermarket’s sales from 2019-01-2019-03. It contains numeric, categorical, and datetime data values. It has information on transactions regarding to buyers’ gender, payment method, product categories, products cost and unit purchased and the time the transaction was made.  The table has 1000 rows and 14 features. </p>
@@ -33,9 +33,13 @@
 
 
 
-<p>Product Line Sales. The category with the highest sales is food and Beverages at 56144.84 dollars after tax. The category with the lowest sales was Health and beauty at 49193.73 dollars. </p>
+<p>Product Line Sales. The category with the highest sales is food and Beverages at 56144.84 dollars after tax. The category with the lowest sales was Health and beauty at 49193.73 dollars. For each month, onsumers had different priorities. Thus, the most sold products are different from months to months.</p>
 
 ![productline](https://github.com/user-attachments/assets/42250ddb-fac9-4454-804a-4a581ea2a914)
+
+![monthly_product_sales](https://github.com/user-attachments/assets/9b1ca2b5-617e-4833-979d-6d8d47e540c0)
+
+
 
 
 
@@ -48,7 +52,6 @@
 <p>Monthly sales. January had the most sale after tax of 116291.87 dollars. For each month, the top sales categories are Sports and travel of $21667.02, Food and beverage of 20000, and home and lifestyle of 20932 for the month of Jan, Feb, and Mar.</p>
 
 ![monthly_sales](https://github.com/user-attachments/assets/4a1ad8c1-8e53-4001-a599-d75421db29f6)
-![monthly_product_sales](https://github.com/user-attachments/assets/9b1ca2b5-617e-4833-979d-6d8d47e540c0)
 
 
 <p>Payment methods. The most popular payment methods were cash of 112206.57 dollars. Followed by E-wallet of 109993.11 dollars, then credit card of 100767.07 dollars. Breaking down to genders, Females did the most shopping in cash of 59524.21 and male of 55122.84 dollars in e-wallet. </p>
@@ -62,4 +65,4 @@
 
 
 <h3>Recommandations</h3>
-<p>Since female had done the most shopping and by large margins in certain city; then the promotions should be targeting women shoppers. The most sales took place around lunch and dinner time, so the promotions should be concentrated around those hours. For people like to pay with e-wallet, promotion can be done through company apps. </p>
+<p>Since female had done the most shopping and by large margins in certain city; then the promotions should be targeting women shoppers. The most sales took place around lunch and dinner time, so the promotions should be concentrated around those hours. For people like to pay with e-wallet, promotion can be done through company apps. Also, the profit margins are too low only 4.6%. The super market ought to sell high margin products.</p>
