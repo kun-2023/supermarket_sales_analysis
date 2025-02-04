@@ -6,6 +6,7 @@
   <li>Executive Summary</li>
   <li>Deep Dives</li>
   <li>Recommandations</li>
+  <li>Tableau Dashboard</li>
 </ul>
 <h3>Case Description</h3>
 <p>This supermarket chain in Myanmar operates in three cities Yangon, Naypyitaw, and Mandalay. It accepts payments methods of cash, E-wallet and credit card. In order to improve the chain’s revenue, the company decided to perform an analysis on its sales from January 2019 to March 2019 to identify inefficiencies and high value customers. The Data analysis was done in SQL.</p>
@@ -66,3 +67,8 @@
 
 <h3>Recommandations</h3>
 <p>Since female had done the most shopping and by large margins in certain city; then the promotions should be targeting women shoppers. The most sales took place around lunch and dinner time, so the promotions should be concentrated around those hours. For people like to pay with e-wallet, promotion can be done through company apps. Also, the profit margins are too low only 4.6%. The super market ought to sell high margin products.</p>
+<h3>Tableau Dashboard</h3>
+<p>Click the <a href="https://public.tableau.com/app/profile/kun.bi/viz/supermarket_dashboard_17386966695480/Supermarket_Sales2">link</a> to view the dashboard.</p>
+
+![supermarket_dashboard](https://github.com/user-attachments/assets/c5bc3c4a-faff-4a31-980a-3c64ecf0c4fa)
+
